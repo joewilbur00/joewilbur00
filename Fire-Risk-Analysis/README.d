@@ -1,4 +1,4 @@
-#  Wildfire Risk Analysis in the U.S.
+# Wildfire Risk Analysis in the U.S.
 
 This notebook explores the environmental and seasonal factors contributing to wildfire size using historical data. It includes regression modeling and EDA to identify high-risk conditions.
 

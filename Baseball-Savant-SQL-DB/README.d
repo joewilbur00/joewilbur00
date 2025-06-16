@@ -34,7 +34,3 @@ To showcase data modeling, query design, and baseball-specific analytics through
 - Advanced SQL techniques (`CTE`, `ROW_NUMBER()`, `NTILE`, `JOIN`)
 - Real-world player performance analysis
 - View creation to support decision-making scenarios (e.g., scouting, trade strategy)
-
----
-
-## File Structure

@@ -1,15 +1,16 @@
-# Twitter Sentiment Analysis
+# Earnings Call Sentiment and Volatility Analysis
 
-This notebook classifies tweet sentiments using supervised machine learning techniques. It demonstrates end-to-end preprocessing, vectorization, and model evaluation.
+This notebook analyzes the relationship between earnings call sentiment and stock volatility. It combines FinBERT sentiment scores and topic features to build a predictive classifier.
 
 ## Key Components
-- Cleaned and labeled a dataset of tweets
-- Applied a mix of TF-IDF vectorization, GloVE-200-Twitter embeddings, logistic regression and random forest models. 
-- Evaluated model accuracy and confusion matrix
+- Created a dataset including text from earnings calls and stock data surrounding earnings call dates using yfinance
+- Extracted FinBERT sentiment scores from earnings calls
+- Combined with topic model features from LDA
+- Built a Random Forest model to classify volatility risk
 
 ## Purpose
-To build a sentiment classifier capable of analyzing public opinion, usable for market monitoring or brand analysis.
+To evaluate whether CEO tone and discussion topics during earnings calls can predict short-term stock price volatility.
 
 ## Tools Used
-- Python (scikit-learn, NLTK)
-- Logistic regression, random forest, TF-IDF, GloVE-200-Twitter, 
+- Python (Pandas, FinBERT, Scikit-learn)
+- Classification modeling and performance evaluation

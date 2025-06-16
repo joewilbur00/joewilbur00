@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Joe Wilbur
 
-<!--
-**joewilbur00/joewilbur00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Business Analytics at UNC Charlotte, with a passion for solving real-world problems using data engineering, machine learning, and analytics. This portfolio showcases my applied projects across SQL, Python, and cloud technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- MS in Data Science & Business Analytics | UNC Charlotte | Class of 2026
+- Data-driven, project-oriented problem solver
+- Interests: data engineering, machine learning, NLP, sports analytics, and sustainability
+- Tools: Python, SQL, MySQL, Pandas, scikit-learn, Matplotlib, Jupyter, Git
+
+---
+
+## Featured Projects
+
+### [Baseball Savant SQL Analysis](./Baseball-Savant-SQL)
+Structured and queried MLB player data in MySQL to deliver performance insights using advanced SQL (CTEs, window functions, views). Created custom queries for sprint speed, run value, and power metrics.
+
+### [Sustainable Aviation Fuel (SAF) Analysis](./SAF-Analysis)
+Built linear and time-series models to forecast jet fuel prices and evaluate the cost-effectiveness of SAF for airlines. Supports sustainability recommendations with data-backed projections.
+
+### [Earnings Call Volatility Prediction](./Earnings_Call_Analysis)
+Used FinBERT sentiment scores and LDA topic distributions to predict short-term stock volatility following earnings calls. Built and evaluated a Random Forest classifier for binary volatility classification.
+
+### [Topic Modeling of Academic Articles](./Topic_Modeling)
+Applied LDA to uncover thematic structures in academic abstracts, enabling document clustering and topic classification. Preprocessed text and visualized dominant topic distributions.
+
+### [Twitter Sentiment Classifier](./Twitter_Sentiment_Analysis)
+Cleaned and labeled tweets to build a logistic regression model using TF-IDF vectorization. Classified sentiment and evaluated performance using accuracy and confusion matrix.
+
+---
+
+## Get in Touch
+
+- Email: [joe.f.wilbur@gmail.com](mailto:joe.f.wilbur@gmail.com)
+- LinkedIn: [linkedin.com/in/joewilbur](https://www.linkedin.com/in/joewilbur)

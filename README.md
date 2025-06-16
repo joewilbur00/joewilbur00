@@ -24,7 +24,7 @@ Built linear and time-series models to forecast jet fuel prices and evaluate the
 ### [Earnings Call Volatility Prediction](./Earnings-Calls-SentAnalysis-TopicModeling-Analysis)
 Used FinBERT sentiment scores and LDA topic distributions to predict short-term stock volatility following earnings calls. Built and evaluated a Random Forest classifier for binary volatility classification.
 
-### [Topic Modeling of Academic Articles](./Academic-Article-Topic_Modeling)
+### [Topic Modeling of Academic Articles](./Academic-Article-Topic-Modeling)
 Applied LDA to uncover thematic structures in academic abstracts, enabling document clustering and topic classification. Preprocessed text and visualized dominant topic distributions.
 
 ### [Twitter Sentiment Classifier](./Twitter-Sentiment-Analysis)

@@ -15,20 +15,23 @@ Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Busin
 
 ## Featured Projects
 
-### [Baseball Savant SQL Analysis](./Baseball-Savant-SQL)
+### [Baseball Savant SQL Analysis](./Baseball-Savant-SQL-DB)
 Structured and queried MLB player data in MySQL to deliver performance insights using advanced SQL (CTEs, window functions, views). Created custom queries for sprint speed, run value, and power metrics.
 
 ### [Sustainable Aviation Fuel (SAF) Analysis](./SAF-Analysis)
 Built linear and time-series models to forecast jet fuel prices and evaluate the cost-effectiveness of SAF for airlines. Supports sustainability recommendations with data-backed projections.
 
-### [Earnings Call Volatility Prediction](./Earnings_Call_Analysis)
+### [Earnings Call Volatility Prediction](./Earnings-Calls-SentAnalysis-TopicModeling-Analysis)
 Used FinBERT sentiment scores and LDA topic distributions to predict short-term stock volatility following earnings calls. Built and evaluated a Random Forest classifier for binary volatility classification.
 
-### [Topic Modeling of Academic Articles](./Topic_Modeling)
+### [Topic Modeling of Academic Articles](./Academic-Article-Topic_Modeling)
 Applied LDA to uncover thematic structures in academic abstracts, enabling document clustering and topic classification. Preprocessed text and visualized dominant topic distributions.
 
-### [Twitter Sentiment Classifier](./Twitter_Sentiment_Analysis)
+### [Twitter Sentiment Classifier](./Twitter-Sentiment-Analysis)
 Cleaned and labeled tweets to build a logistic regression model using TF-IDF vectorization. Classified sentiment and evaluated performance using accuracy and confusion matrix.
+
+## [Fire Risk Analysis](./Fire-Risk-Analysis)
+Analyzed historical wildfire data to identify environmental and seasonal factors influencing fire size across the U.S. Conducted exploratory analysis and built a linear regression model using variables such as temperature, precipitation, and cause of ignition to quantify fire risk.
 
 ---
 

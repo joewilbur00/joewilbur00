@@ -38,4 +38,4 @@ Analyzed historical wildfire data to identify environmental and seasonal factors
 ## Get in Touch
 
 - Email: [joe.f.wilbur@gmail.com](mailto:joe.f.wilbur@gmail.com)
-- LinkedIn: [linkedin.com/in/joewilbur](https://www.linkedin.com/in/joewilbur)
+- LinkedIn: [linkedin.com/in/joewilbur](https://www.linkedin.com/in/joseph-wilbur-baa3301b0/)

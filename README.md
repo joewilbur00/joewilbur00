@@ -15,6 +15,9 @@ Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Busin
 
 ## Featured Projects
 
+### [Fantasy Football Draft Aid](./Fantasy-Football-Aid)
+Predicted fantasy football outcomes for the 2025 season at the QB, WR, RB, and TE positions. Created a stramlit interfact integrated with an LLM that suggests players to draft based on team needs and best players available. 
+
 ### [Classification of Melanoma Images](./Melanoma-Detection-CNN)
 Built Convolutional Neural Networks to classfify melanoma images as either benign or malignant. Implemented torchvision transforms and multi-block CNN structure to bolster performance. 
 

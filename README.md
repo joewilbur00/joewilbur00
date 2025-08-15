@@ -15,6 +15,9 @@ Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Busin
 
 ## Featured Projects
 
+### [Classification of Melanoma Images](./Melanoma-Detection-CNN)
+Built Convolutional Neural Networks to classfify melanoma images as either benign or malignant. Implemented torchvision transforms and multi-block CNN structure to bolster performance. 
+
 ### [Baseball Savant SQL Analysis](./Baseball-Savant-SQL-DB)
 Structured and queried MLB player data in MySQL to deliver performance insights using advanced SQL (CTEs, window functions, views). Created custom queries for sprint speed, run value, and power metrics.
 

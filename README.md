@@ -1,6 +1,6 @@
 # Hi, I'm Joe Wilbur
 
-Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Business Analytics at UNC Charlotte, with a passion for solving real-world problems using data engineering, machine learning, and analytics. This portfolio showcases my applied projects across SQL, Python, and cloud technologies.
+Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Business Analytics at UNC Charlotte, with a passion for solving real-world problems using data engineering, machine learning, and analytics. This portfolio showcases my applied projects across SQL, Python, and machine learning.
 
 ---
 

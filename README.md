@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm a graduate student in Data Science and Busin
 
 - MS in Data Science & Business Analytics | UNC Charlotte | Class of 2026
 - Data-driven, project-oriented problem solver
-- Interests: data engineering, machine learning, NLP, sports analytics, and sustainability
+- Interests: data engineering, machine learning, NLP, neural networks, LLMs 
 - Tools: Python, SQL, MySQL, Pandas, scikit-learn, Matplotlib, Jupyter, Git
 
 ---

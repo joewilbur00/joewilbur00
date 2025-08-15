@@ -2,7 +2,7 @@
 
 This project evaluates the financial feasibility of Sustainable Aviation Fuel (SAF) adoption by analyzing and projecting conventional jet fuel costs. It combines time-series forecasting and regression modeling to identify trends in fuel pricing, which can inform strategic planning for airlines seeking low-carbon alternatives.
 
-## 📂 Notebooks
+## Notebooks
 
 ### 1. Projected_Jet_Fuel_Cost.ipynb
 - Collected and cleaned historical jet fuel price data
